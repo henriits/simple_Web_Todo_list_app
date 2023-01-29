@@ -1,7 +1,7 @@
 import streamlit as st
 
 import functions
-from functions import get_todos
+
 
 todos = functions.get_todos()
 
